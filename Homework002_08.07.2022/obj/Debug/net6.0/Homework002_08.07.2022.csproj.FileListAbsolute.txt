@@ -1,0 +1,15 @@
+M:\Павел рабочий стол\Homework\Homework002_08.07.2022\obj\Debug\net6.0\Homework002_08.07.2022.csproj.AssemblyReference.cache
+M:\Павел рабочий стол\Homework\Homework002_08.07.2022\obj\Debug\net6.0\Homework002_08.07.2022.GeneratedMSBuildEditorConfig.editorconfig
+M:\Павел рабочий стол\Homework\Homework002_08.07.2022\obj\Debug\net6.0\Homework002_08.07.2022.AssemblyInfoInputs.cache
+M:\Павел рабочий стол\Homework\Homework002_08.07.2022\obj\Debug\net6.0\Homework002_08.07.2022.AssemblyInfo.cs
+M:\Павел рабочий стол\Homework\Homework002_08.07.2022\obj\Debug\net6.0\Homework002_08.07.2022.csproj.CoreCompileInputs.cache
+M:\Павел рабочий стол\Homework\Homework002_08.07.2022\bin\Debug\net6.0\Homework002_08.07.2022.exe
+M:\Павел рабочий стол\Homework\Homework002_08.07.2022\bin\Debug\net6.0\Homework002_08.07.2022.deps.json
+M:\Павел рабочий стол\Homework\Homework002_08.07.2022\bin\Debug\net6.0\Homework002_08.07.2022.runtimeconfig.json
+M:\Павел рабочий стол\Homework\Homework002_08.07.2022\bin\Debug\net6.0\Homework002_08.07.2022.dll
+M:\Павел рабочий стол\Homework\Homework002_08.07.2022\bin\Debug\net6.0\Homework002_08.07.2022.pdb
+M:\Павел рабочий стол\Homework\Homework002_08.07.2022\obj\Debug\net6.0\Homework002_08.07.2022.dll
+M:\Павел рабочий стол\Homework\Homework002_08.07.2022\obj\Debug\net6.0\refint\Homework002_08.07.2022.dll
+M:\Павел рабочий стол\Homework\Homework002_08.07.2022\obj\Debug\net6.0\Homework002_08.07.2022.pdb
+M:\Павел рабочий стол\Homework\Homework002_08.07.2022\obj\Debug\net6.0\Homework002_08.07.2022.genruntimeconfig.cache
+M:\Павел рабочий стол\Homework\Homework002_08.07.2022\obj\Debug\net6.0\ref\Homework002_08.07.2022.dll
